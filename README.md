@@ -13,7 +13,7 @@
    ```bash
    git clone https://github.com/DorTor1/ScreenButtonAutoClicker.git
    
-2.Убедитесь, что у вас установлен Python 3.6 или новее.
+2. Убедитесь, что у вас установлен Python 3.6 или новее.
 3. Установите зависимости:
    ```bash
    pip install -r requirements.txt
