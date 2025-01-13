@@ -21,13 +21,13 @@
 ## Как использовать
 1. Создайте скриншоты кнопок, которые нужно нажимать, и сохраните их в папке проекта.
 2. В файле main.py укажите пути к изображениям кнопок:
-```bash
-buttons = ["button1.png", "button2.png", "button3.png"]
-```
+   ```bash
+   buttons = ["button1.png", "button2.png", "button3.png"]
+   ```
 3. Запустите скрипт:
-```bash
-python ScreenButtonAutoClicker.py
-```
+   ```bash
+   python ScreenButtonAutoClicker.py
+   ```
 4. Остановить выполнение можно, нажав Ctrl + C.
 ## Зависимости
 - pyautogui: управление мышью и клавиатурой.
